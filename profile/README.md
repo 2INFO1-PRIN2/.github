@@ -150,24 +150,24 @@ Detalhe as alterações realizadas de forma clara e objetiva:
 
 1.Selecione a aba `Pull requests`em seu repositório:
 
-![Minha Imagem](<./images/PR(1).png>)
+![Minha Imagem](<../images/PR(1).png>)
 
 2.Após isso, selecione a branch de onde você deseja realizar o pull para a branch que você realizará o push:
 
 - No exemplo estamos realizando o pull da branch `add-badges-to-readme` para a branch `main`.
 - Ou seja, comparando os arquivos de `add-badges-to-readme` com os da `main`.
 
-![Minha Imagem](<./images/PR(2).png>)
+![Minha Imagem](<../images/PR(2).png>)
 
 03.Depois disso, adicione as propriedades desejada em seu Pull Request
 
 - Neste exemplo, foi adicionado propriedade aos campos `Reviwers`, `Assignees`, `Labels` e `Projects`.
 
-![Minha Imagem](<./images/PR(3).png>)
+![Minha Imagem](<../images/PR(3).png>)
 
 4.Após a aprovação dos usuários predefinidos como `Reviwers`, confirme o `merge` das branchs e o `Pull request estará concluído`.
 
-![Minha Imagem](<./images/PR(4).png>)
+![Minha Imagem](<../images/PR(4).png>)
 
 # **Glossário 📖**
 
